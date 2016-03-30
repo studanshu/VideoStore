@@ -4,8 +4,8 @@ Standalone software to maintain Accounts of a Video Store - Purchases, Availabil
 
 
 ## Requirements
-* (NetBeans 8.1+)[http://netbeans.org/]
-* (Java SDK)[http://www.oracle.com/technetwork/java/javase/downloads/index.html]
+* [NetBeans 8.1+](http://netbeans.org/)
+* [Java SDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 ## Instruction to use
 
